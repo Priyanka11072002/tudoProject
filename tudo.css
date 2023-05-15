@@ -1,0 +1,31 @@
+
+
+body{
+  background-color: skyblue;  
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ flex-direction: column;
+ margin:150px auto;
+
+}
+
+#input{
+    width:230px;
+    padding:7px;
+border:none;
+outline:0;
+border-radius:5px;
+color:green
+}
+
+button{
+    padding:7px;
+    border:none;
+outline:0;
+border-radius:5px;
+color:green
+}
+.delete{
+  display: none;  
+}
